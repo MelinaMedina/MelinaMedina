@@ -12,3 +12,8 @@
 
 # 📜 Certificaciones:
 ![QA Automation](assets/cert-qa-automation.svg) ![Selenium 4](assets/cert-selenium-4.svg) ![Xray](assets/cert-xray.svg) ![API Testing](assets/cert-api-testing.svg)
+
+# 🌐 Redes sociales:
+<a href="https://www.linkedin.com/in/melina-medina-31501822a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
