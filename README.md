@@ -4,7 +4,7 @@
  - 🧪 Lo que hago: Soy QA Tester/Engineer con más de 3 años de experiencia en proyectos de banca, seguros, salud, pagos y gobierno.
  - 🏦 Experiencia: Hice pruebas de frontend y backend para bancos, probé pasarelas de pago (QR, débito y crédito) y validé portales web con múltiples roles y permisos.
  - 💻 Objetivo actual: Especializarme en automatización de pruebas con Cypress, Selenium y Playwright, mientras aprendo Angular y NestJS.
- - 🎓 Estudios: Curso la Tecnicatura Universitaria en Programación en la UTN FRC y en XAcademy (Santex) terminé los programas QA Automation y Full Stack Web Development.
+ - 🎓 Estudios: Estoy próxima a recibirme de la Tecnicatura Universitaria en Programación en la UTN FRC, con el proyecto final en curso. En XAcademy (Santex) terminé los programas QA Automation y Full Stack Web Development, y en QActions hice el Taller de Testing y Calidad.
  - 🌟 ¿Sabías que?: Además de testear, acompañé y guié a testers trainee en sus primeros pasos.
 
 # 💻 Tecnologías utilizadas:
